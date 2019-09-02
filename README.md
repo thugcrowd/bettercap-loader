@@ -1,5 +1,7 @@
 # Bettercap Loader #
 
+![bettercap-loader](bettercap-loader.png)
+
 This is a loader for bettercap. Bettercap is a tool about wifi and internet.
 
 This script is a helper script that enhances your bettercap experience.
