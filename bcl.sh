@@ -18,3 +18,4 @@ echo "             B E T T E R C A P  L O A D E R             "
 echo -e "\e[36;1m"
 echo "                Copyright 2019 Thugcrowd"
 echo -e "\e[0m"
+bettercap
