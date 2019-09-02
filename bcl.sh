@@ -15,7 +15,9 @@ echo "   ╱╱╱╱╲____╱╱╱╱╱╱╲____╱╱╱╱╱╱╱  ╱�
 echo "       ╱╱╱╱╱      ╱╱╱╱╱                 ╱╱╱╱╱    ╱╱╱╱╱   "
 echo -e "\e[0m\e[31m"
 echo "             B E T T E R C A P  L O A D E R             "
-echo -e "\e[36;1m"
+echo -e "\e[36;1m\e[5m"
 echo "                Copyright 2019 Thugcrowd"
+echo -e "\e[0m\e[32;1m"
+echo "                          v0.2"
 echo -e "\e[0m"
-bettercap
+bettercap $@
