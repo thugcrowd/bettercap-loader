@@ -1,0 +1,27 @@
+CHANGELOG
+
+v0.3
+====
+
+ RELEASE DATE: 2019-09-02
+
+ Added support for exactly one theme "pink". Themes are stored in .bclrc,
+ located at the root of this repo. Activate this theme by using the following
+ one liner:
+
+   $ echo pink > .bclrc
+
+ Disable this theme using the following one liner:
+
+   $ echo default > .bclrc
+
+v0.2
+====
+
+ RELEASE DATE: 2019-09-02
+ 
+ Added a variable to squash all of the command line arguments so that when the
+ script is called, arguments will be passed to bettercap.
+
+
+© 2019 Thugcrowd
